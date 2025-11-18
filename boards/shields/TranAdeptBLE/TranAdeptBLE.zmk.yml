@@ -2,7 +2,7 @@ file_format: "1"
 id: TranAdeptBLE
 name: TranAdeptBLE
 type: shield
-url: https://github.com/taichan1113/mouse-test
+url: https://github.com/trankalinos/zmk-config-adept_ble
 requires: [seeeduino_xiao_ble]
 features:
   - keys
