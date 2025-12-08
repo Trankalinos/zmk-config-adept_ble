@@ -3,7 +3,8 @@ if SHIELD_TRANADEPTBLE
 config ZMK_KEYBOARD_NAME
     default "TranAdept BLE"
 
-endif
-
 config SPI
 	default y
+
+endif
+

@@ -23,5 +23,3 @@ include:
     artifact-name: xiao_system_reset
   - board: seeeduino_xiao_ble
     shield: TranAdeptBLE
-    snippet: studio-rpc-usb-uart
-    cmake-args: -DCONFIG_ZMK_STUDIO=y
